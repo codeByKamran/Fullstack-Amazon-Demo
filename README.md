@@ -10,7 +10,7 @@
 
 
 ## Live Project Like:
-https://azhar-amazonclone.ga/
+https://kamran-amazondemo.netlify.app
 
 ---
 ## Your Contribution would be a great favour! Thanks for being here. Take Care
